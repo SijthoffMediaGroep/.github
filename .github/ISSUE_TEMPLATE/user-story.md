@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Describe this issue template's purpose here.
+about: User Stories describe how value can be added to the product for users
 title: ''
 labels: User Story
 assignees: ''
