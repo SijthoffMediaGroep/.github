@@ -2,7 +2,7 @@
 name: User Story MD
 about: User Stories describe how value can be added to the product for users
 title: ''
-labels: ["Type::User Story"]
+labels: "Type::User Story"
 assignees: ''
 
 ---
