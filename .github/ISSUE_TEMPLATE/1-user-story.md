@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: 📖 User Story
 about: User Stories describe how value can be added to the product for users
 title: ''
 labels: "Type::User Story"
