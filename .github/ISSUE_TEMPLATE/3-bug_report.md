@@ -2,7 +2,7 @@
 name: "\U0001F41B Bug report"
 about: Something that should be working doesn't work as expected
 title: ''
-labels: bug
+labels: Type::Bug
 assignees: ''
 
 ---
