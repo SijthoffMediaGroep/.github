@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: 🐛 Bug report
+about: Something that should be working doesn't work as expected
 title: ''
 labels: bug
 assignees: ''
