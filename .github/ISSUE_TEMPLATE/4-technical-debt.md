@@ -2,7 +2,7 @@
 name: "\U0001F4B8 Technical Debt"
 about: '"Build now, fix later"'
 title: ''
-labels: Type::Technical Debt
+labels: 'Technical Debt'
 assignees: ''
 
 ---
