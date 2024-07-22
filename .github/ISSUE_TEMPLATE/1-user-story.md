@@ -2,7 +2,7 @@
 name: "\U0001F4D6 User Story"
 about: User Stories describe how value can be added to the product for users
 title: ''
-labels: 'User Story'
+labels: ''
 assignees: ''
 
 ---
@@ -18,13 +18,13 @@ So that
 ### Approver
 
 ### Acceptance criteria
-
-### Questions
-
-### Assumptions
-
-### Notes
+- [ ] 
 
 ### Technical Tasks
+- [ ] 
+
+### Questions / Notes
+
+### Assumptions
 
 ### Deployment instructions
