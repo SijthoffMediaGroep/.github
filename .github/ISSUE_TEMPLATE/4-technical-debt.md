@@ -4,6 +4,7 @@ about: '"Build now, fix later"'
 title: ''
 labels: ["Technical Debt"]
 assignees: ''
+projects: ["SijthoffMediaGroep/6"]
 
 ---
 
