@@ -4,6 +4,7 @@ about: Something that should be working doesn't work as expected
 title: ''
 labels: 'Bug'
 assignees: ''
+type: 'Bug'
 
 ---
 
