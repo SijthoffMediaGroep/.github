@@ -11,6 +11,10 @@ assignees: ''
 
 (Explain in as much detail as possible what the debt entails)
 
+### Original requester
+
+(Who asked for this?)
+
 ### Why was the debt introduced?
 
 (Give a clear explanation as to why the debt was introduced)
