@@ -14,6 +14,10 @@ As a
 I want to  
 So that
 
+### Original requester
+
+(Who asked for this?)
+
 ### Summary
 
 ### Approver
